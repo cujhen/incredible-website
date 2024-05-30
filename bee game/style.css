@@ -1,0 +1,103 @@
+
+#app{
+    position: absolute;
+    width: 1000px;
+    height: 562px;
+}
+
+#bee{
+    position: absolute;
+    width: 40px;
+    left: 10px;
+    top: 50%;
+}
+
+#dragonfly{
+    position: absolute;
+    width: 60px;
+    left: 15%;
+    top: 65%;
+}
+
+#berry{
+    position: absolute;
+    width: 30px;
+    left: 21%;
+    top: 36%;
+}
+
+#scallion{
+    position: absolute;
+    width: 100px;
+    left: 45%;
+    top: 66%;
+}
+
+#flower1{
+    position: absolute;
+    width: 38px;
+    left: 45%;
+    top: 30%;
+}
+
+#ok1{
+    position: absolute;
+    width: 38px;
+    left: 45%;
+    top: 30%;
+    visibility: hidden;
+}
+
+#flower3{
+    position: absolute;
+    width: 70px;
+    left: 27%;
+    top: 55%;
+}
+
+#ok2{
+    position: absolute;
+    width: 38px;
+    left: 29%;
+    top: 54%;
+    visibility: hidden;
+}
+
+#flower4{
+    position: absolute;
+    width: 35px;
+    left: 5%;
+    top: 33%;
+}
+
+#arrowup{
+    position: absolute;
+    width: 100px;
+    left: 20px;
+    bottom: 1%;
+    transform: rotate(-90deg);
+}
+
+#arrowdown{
+    position: absolute;
+    width: 100px;
+    left: 140px;
+    bottom: 1%;
+    transform: rotate(90deg);
+}
+
+#arrowleft{
+    position: absolute;
+    width: 100px;
+    left: 260px;
+    bottom: 1%;
+    transform: rotate(180deg);
+}
+
+#arrowright{
+    position: absolute;
+    width: 100px;
+    left: 380px;
+    bottom: 1%;
+}
+
